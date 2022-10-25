@@ -1,3 +1,3 @@
 # Curso de Git & GitHub
 
-Hola, esta es una modificacion
+Practicas de Git & GibHub en project1
